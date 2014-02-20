@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+# Simples implementação sparkline em python para teste
+# precisa de unicode ...
+#
+
 import sys
 import os
 
